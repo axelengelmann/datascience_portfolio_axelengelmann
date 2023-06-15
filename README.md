@@ -1,6 +1,6 @@
 # Datascience_portfolio_axelengelmann
 
-# [Project 1 : Waze Project] (https://github.com/axelengelmann/datascience_portfolio_axelengelmann/blob/main/waze_project_data_science.ipynb)
+# [Project 1 : Waze Project](https://github.com/axelengelmann/datascience_portfolio_axelengelmann/blob/main/waze_project_data_science.ipynb)
 
 What we want to do?
  Predict if a customer will churn or be retained.
