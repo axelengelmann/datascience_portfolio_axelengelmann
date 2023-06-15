@@ -17,3 +17,4 @@ Do the benefits of such a model outweigh the potential problems?
  
 Would you proceed with the request to build this model? Why or why not?
  Yes. There aren't any significant risks for building such a model.
+ ![] (https://github.com/axelengelmann/datascience_portfolio_axelengelmann/blob/main/download.png)
