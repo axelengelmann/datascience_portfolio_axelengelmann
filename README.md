@@ -1,20 +1,14 @@
-# Datascience_portfolio_axelengelmann
+<h1>Hi, I'm Axel! <br/><a href="https://github.com/axelengelmann">Data Science</a>, <a href="https://www.linkedin.com/in/axel-engelmann/?locale=en_US">Finance Professional</a>
 
-# [Project 1 : Waze Project](https://github.com/axelengelmann/datascience_portfolio_axelengelmann/blob/main/waze_project_data_science.ipynb)
+<h2>👨‍💻 Data Science/ML Projects:</h2>
 
-What we want to do?
- Predict if a customer will churn or be retained.
+- <b>Logistic Regression and Tree based Machine Learning model</b>
+  - [Salifort Motors project lab](https://github.com/axelengelmann/datascience_portfolio_axelengelmann/blob/main/Salifort_Motors_project_lab.ipynb)
  
-What are the ethical implications of the model?
- What is the likely effect of the model when it predicts a false negative (i.e., when the model says a Waze user won't churn, but they actually will)?
-   Waze will fail to take proactive measures to retain users who are likely to stop using the app. For example, Waze might proactively push an app notification to users, or send a survey to better understand user dissatisfaction.
-   
- What is the likely effect of the model when it predicts a false positive (i.e., when the model says a Waze user will churn, but they actually won't)?
-  Waze may take proactive measures to retain users who are NOT likely to churn. This may lead to an annoying or negative experience for loyal users of the app.
+- <b>XGBoost model and Random forest</b>
+  - [Waze project data science](https://github.com/axelengelmann/datascience_portfolio_axelengelmann/blob/main/waze_project_data_science.ipynb)
+
+
   
-Do the benefits of such a model outweigh the potential problems?
- The proactive measueres taken by Waze might have unintended effects on users, and these effects might encourage user churn. Follow-up analysis on the effectiveness of the measures is recommended. If the measures are reasonable and effective, then the benefits will most likely outweigh the problems.
- 
-Would you proceed with the request to build this model? Why or why not?
- Yes. There aren't any significant risks for building such a model.
+
  
