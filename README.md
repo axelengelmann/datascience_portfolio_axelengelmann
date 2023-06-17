@@ -19,13 +19,6 @@
 
 
 
-<h2> 📄 Certications:</h2>
-
-- [Google Advanced Data Analytics](https://www.coursera.org/account/accomplishments/specialization/certificate/949J87NUF6WY)
-- [DeepLearning.IA Machine Learning Specialization](https://www.coursera.org/account/accomplishments/specialization/certificate/382H3V57VPS4)
-- [freeCodeCamp Data Analysis with Python](https://www.freecodecamp.org/certification/axelengelmann/data-analysis-with-python-v7)
-- [freeCodeCamp Machine Learning with Python](https://www.freecodecamp.org/certification/axelengelmann/machine-learning-with-python-v7)
-- [Yale University Financial Markets](https://www.coursera.org/account/accomplishments/verify/L3UMJBUN7UR4?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course)
 
 
  
