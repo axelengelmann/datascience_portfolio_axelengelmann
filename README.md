@@ -7,6 +7,16 @@
  
 - <b>XGBoost model and Random forest</b>
   - [Waze project data science](https://github.com/axelengelmann/datascience_portfolio_axelengelmann/blob/main/waze_project_data_science.ipynb)
+ 
+- <b>Recommendation Engine using KNN</b>
+  - [Book Recommendation Engine using KNN](https://github.com/axelengelmann/datascience_portfolio_axelengelmann/blob/main/Book_recommendation.ipynb)
+ 
+- <b>Imagen Classifier</b>
+  - [Cat and Dog Image Classifier](https://github.com/axelengelmann/datascience_portfolio_axelengelmann/blob/main/cat_dog_fcc.ipynb)
+
+ 
+  
+
 
 
 <h2> 📄 Certications:</h2>
